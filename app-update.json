@@ -1,8 +1,8 @@
 {
   "version": "1.1.1.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.1/setup.exe",
-  "sha256": "22789f09db92a7cd72eac1a64bfb7b17e82162b9d27fe39056af8bf22fb20520",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.1/setup-v1.1.1.exe",
+  "sha256": "2f3f97359b27df36dd0f56db20fd73e624df22e6365d4a62711819303b5e8163",
   "required": false,
   "notes": "Manual update check no longer freezes the app."
 }
