@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1.0",
+  "version": "1.1.2.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.1/setup-v1.1.1.exe",
-  "sha256": "2f3f97359b27df36dd0f56db20fd73e624df22e6365d4a62711819303b5e8163",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.2/setup-v1.1.2.exe",
+  "sha256": "af54c0ffcc77e70d879602321f1b4bcc0f7feb73635ce5191987ed95080742ac",
   "required": false,
-  "notes": "Manual update check no longer freezes the app."
+  "notes": "Upload validation now accepts a correct template root even when some remote files are not present locally."
 }
