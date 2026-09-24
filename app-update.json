@@ -1,8 +1,8 @@
 {
-  "version": "1.1.3.0",
+  "version": "1.1.4.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.3/setup-v1.1.3.exe",
-  "sha256": "9cbbcb661485d6904c8b5f1dea283daeba7bccefeefbee85549f91c34086c131",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.4/setup-v1.1.4.exe",
+  "sha256": "3e99424d3eb4300377e653f803f7330c7d20ac993bebed1aa38a354850eac0ce",
   "required": false,
-  "notes": "Update handoff now waits for the old app to close before launching the installer."
+  "notes": "Upload now mirrors directory structure changes to GitHub by deleting remote files that are missing locally."
 }
