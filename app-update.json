@@ -1,8 +1,8 @@
 {
-  "version": "1.1.2.0",
+  "version": "1.1.3.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.2/setup-v1.1.2.exe",
-  "sha256": "af54c0ffcc77e70d879602321f1b4bcc0f7feb73635ce5191987ed95080742ac",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.3/setup-v1.1.3.exe",
+  "sha256": "9cbbcb661485d6904c8b5f1dea283daeba7bccefeefbee85549f91c34086c131",
   "required": false,
-  "notes": "Upload validation now accepts a correct template root even when some remote files are not present locally."
+  "notes": "Update handoff now waits for the old app to close before launching the installer."
 }
