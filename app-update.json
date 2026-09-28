@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4.0",
+  "version": "1.1.5.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.4/setup-v1.1.4.exe",
-  "sha256": "3e99424d3eb4300377e653f803f7330c7d20ac993bebed1aa38a354850eac0ce",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.5/setup-v1.1.5.exe",
+  "sha256": "061327166924017654c1a9086b94d14b14836fb69677ab90d12c69d752707a26",
   "required": false,
-  "notes": "Upload now mirrors directory structure changes to GitHub by deleting remote files that are missing locally."
+  "notes": "Update download now shows a progress window and launches the visible installer directly."
 }
