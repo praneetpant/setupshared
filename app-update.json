@@ -1,8 +1,8 @@
 {
-  "version": "1.1.9.0",
-  "packageType": "exe",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.9/Mercury.Survey.Programming.v1.1.9.exe",
-  "sha256": "db3abe88b91b961207f78ee1ed6eee45de879e5fc504683d9db7e4daa0dc9cba",
+  "version": "1.1.10.0",
+  "packageType": "installer",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.10/setup-v1.1.10.exe",
+  "sha256": "14927aa799245be6073fce400378701debf7ae8789660d94a8bdbbd7c2cc0738",
   "required": false,
-  "notes": "Removes duplicate Options, Check Updates, and Version buttons from the Project screen. These actions remain under the Help menu."
+  "notes": "Repair update: uses the full installer so older apps can update reliably, and improves app closing after update handoff."
 }
