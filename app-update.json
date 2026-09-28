@@ -1,8 +1,8 @@
 {
   "version": "1.1.8.0",
-  "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.8/setup-v1.1.8.exe",
-  "sha256": "9405527f2d6ca7c8af4491a6bec12201e7cfe358eda51d92e6b04554e696232d",
+  "packageType": "exe",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.8/Mercury%20Survey%20Programming%20v1.1.8.exe",
+  "sha256": "ba2a22487819851b8ba7ccb0de918f4f4e03b03f56a323174f3a14a10f652910",
   "required": false,
-  "notes": "Improves update detection with no-cache GitHub checks and an API fallback."
+  "notes": "Improves update detection with no-cache GitHub checks and an API fallback. This update downloads only the main app EXE."
 }
