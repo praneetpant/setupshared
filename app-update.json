@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5.0",
+  "version": "1.1.7.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.5/setup-v1.1.5.exe",
-  "sha256": "061327166924017654c1a9086b94d14b14836fb69677ab90d12c69d752707a26",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.7/setup-v1.1.7.exe",
+  "sha256": "d4bf12566e1fc2f0c765eb67f73be855eb98ca431ffb0cd992b537f11b8b2b01",
   "required": false,
-  "notes": "Update download now shows a progress window and launches the visible installer directly."
+  "notes": "Adds a Help menu with Options, Check for Updates, and Version."
 }
