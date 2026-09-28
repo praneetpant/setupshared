@@ -1,7 +1,7 @@
 {
   "version": "1.1.9.0",
   "packageType": "exe",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.9/Mercury%20Survey%20Programming%20v1.1.9.exe",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.9/Mercury.Survey.Programming.v1.1.9.exe",
   "sha256": "db3abe88b91b961207f78ee1ed6eee45de879e5fc504683d9db7e4daa0dc9cba",
   "required": false,
   "notes": "Removes duplicate Options, Check Updates, and Version buttons from the Project screen. These actions remain under the Help menu."
