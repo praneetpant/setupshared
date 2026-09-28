@@ -1,8 +1,8 @@
 {
-  "version": "1.1.7.0",
+  "version": "1.1.8.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.7/setup-v1.1.7.exe",
-  "sha256": "d4bf12566e1fc2f0c765eb67f73be855eb98ca431ffb0cd992b537f11b8b2b01",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.8/setup-v1.1.8.exe",
+  "sha256": "9405527f2d6ca7c8af4491a6bec12201e7cfe358eda51d92e6b04554e696232d",
   "required": false,
-  "notes": "Adds a Help menu with Options, Check for Updates, and Version."
+  "notes": "Improves update detection with no-cache GitHub checks and an API fallback."
 }
