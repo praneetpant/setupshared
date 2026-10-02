@@ -1,8 +1,8 @@
 {
-  "version": "1.1.10.0",
+  "version": "1.1.11.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.10/setup-v1.1.10.exe",
-  "sha256": "14927aa799245be6073fce400378701debf7ae8789660d94a8bdbbd7c2cc0738",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.1.11/setup-v1.1.11.exe",
+  "sha256": "979b5850229dc26965e6f3e755c8933fdea99bcc3a5c0ae00e9bdd01ec93f729",
   "required": false,
-  "notes": "Repair update: uses the full installer so older apps can update reliably, and improves app closing after update handoff."
+  "notes": "Pressing Enter in the Project Name field now starts the Create or Copy project action."
 }
