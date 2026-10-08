@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0.0",
+  "version": "1.0.1.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.0.0/setup-v1.0.0.exe",
-  "sha256": "58fea9c9056ccfe6a55a324141d49abcf6eae2d8e496d2068c8b2d0ed84acf60",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.0.1/setup-v1.0.1.exe",
+  "sha256": "06093ee6ae4bb5d85a23a4bed18e7bc3ac6eadc98b9cf331ea22584a5e83f620",
   "required": false,
-  "notes": "Final all-inclusive Mercury Survey Programming release."
+  "notes": "Fixes copy-project renaming so old project names and project numbers are replaced without duplicating MA or suffix text."
 }
