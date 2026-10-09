@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3.0",
+  "version": "1.0.4.0",
   "packageType": "exe",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.0.3/Mercury.Survey.Programming.v1.0.3.exe",
-  "sha256": "703d61716a07f49cd92b1da3ae5a3d1e051eda6f1b460028a8a68ca773688c9a",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.0.4/Mercury.Survey.Programming.v1.0.4.exe",
+  "sha256": "c21e64d594fd96ae5fbadaecae3786ffbdbfa1eddc5ed7d4c106a8c539c9050a",
   "required": false,
-  "notes": "EXE-only update package. Keeps update downloads small while preserving the latest Dimensions URL and login fixes."
+  "notes": "EXE-only update package. Removes stale half Dimensions URLs from the login dropdown by normalizing the selected server before the server list is built."
 }
