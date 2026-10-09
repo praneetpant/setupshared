@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2.0",
-  "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.0.2/setup-v1.0.2.exe",
-  "sha256": "177c96c68664ad98a536f8f2f77a544540ba18acbcf1ac61cf8982c728fcc4ea",
+  "version": "1.0.3.0",
+  "packageType": "exe",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.0.3/Mercury.Survey.Programming.v1.0.3.exe",
+  "sha256": "703d61716a07f49cd92b1da3ae5a3d1e051eda6f1b460028a8a68ca773688c9a",
   "required": false,
-  "notes": "Fixes Dimensions login URL normalization, HTTP 405 login fallback, and lets super users remove Dimensions URLs from Options."
+  "notes": "EXE-only update package. Keeps update downloads small while preserving the latest Dimensions URL and login fixes."
 }
