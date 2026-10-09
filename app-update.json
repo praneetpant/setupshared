@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1.0",
+  "version": "1.0.2.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.0.1/setup-v1.0.1.exe",
-  "sha256": "06093ee6ae4bb5d85a23a4bed18e7bc3ac6eadc98b9cf331ea22584a5e83f620",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.0.2/setup-v1.0.2.exe",
+  "sha256": "177c96c68664ad98a536f8f2f77a544540ba18acbcf1ac61cf8982c728fcc4ea",
   "required": false,
-  "notes": "Fixes copy-project renaming so old project names and project numbers are replaced without duplicating MA or suffix text."
+  "notes": "Fixes Dimensions login URL normalization, HTTP 405 login fallback, and lets super users remove Dimensions URLs from Options."
 }
