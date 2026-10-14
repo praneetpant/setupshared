@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1.0",
+  "version": "1.2.2.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.1/setup-v1.2.1.exe",
-  "sha256": "bae65b0fcbd4916e7d0991ce70758744f8d6dfde07bc4fd11bb6d35b945b3330",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.2/setup-v1.2.2.exe",
+  "sha256": "c71cf54f04b10e7f1a0613360caa1a459ce5e6b6d65b859192fa3d98d0fb8407",
   "required": false,
-  "notes": "Full installer update. Simplifies Options, shows Dimensions URLs as a list, and saves separate username/password credentials for each URL."
+  "notes": "Full installer update. Prevents the Options window from freezing while saving and syncing shared URL settings."
 }
