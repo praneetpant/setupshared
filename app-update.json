@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0.0",
+  "version": "1.2.1.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.0/setup-v1.2.0.exe",
-  "sha256": "7ff8263525782dca65cfbdf5bf9b685afd1ce332a01f50ccefdb04b07d5406a6",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.1/setup-v1.2.1.exe",
+  "sha256": "bae65b0fcbd4916e7d0991ce70758744f8d6dfde07bc4fd11bb6d35b945b3330",
   "required": false,
-  "notes": "Full installer update. Adds a Super User template manager for adding, editing, deleting, and syncing template repository/token entries."
+  "notes": "Full installer update. Simplifies Options, shows Dimensions URLs as a list, and saves separate username/password credentials for each URL."
 }
