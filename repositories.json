@@ -4,24 +4,15 @@
       "repositoryUrl": "https://github.com/praneetpant/SHELL5.git",
       "branch": "main",
       "githubToken": "",
-      "githubTokenEncrypted": "shared:v1:8kLZLH3gNMtO6+VgTCGcgFw5vSZB1ekV3zCQu7Vs2gTgmJNqR/C4Or9+0OIcFS2F1TSLo56OdJOy9nihNuSODvPRHs7Rkyz4pf9Tw8jfvjj9l17vu5iCUrMsfJltwOqn8eltdYOvmSBRPmyBB892CQ==",
+      "githubTokenEncrypted": "shared:v1:4Fy/xQDSjYl7ZgNHbXQWnSiw6BscPqsJZf99Fv+kvgG1AwCLJjlS6ZJKurYODOvatQcWx5bGxo6GQucCVdTC18C9ePTfFf2BZ4ZEIq49ufUfrS3CtsjEUWy43UICrzRBbq3RAzMd76gxWl7ntGLH2A==",
       "oldMddName": "SHELL5"
     },
     "modern": {
       "repositoryUrl": "https://github.com/praneetpant/Templates2026.git",
       "branch": "main",
       "githubToken": "",
-      "githubTokenEncrypted": "shared:v1:2bxJVDtHNwhYVCVLNQ3VvBnSn47/E3PcgCMiZ1Y7tnA9i0CLAgOvDb6EYKYXpZflXzBgxuW/DaKgj3RT2xRSMqoxH881CwkTS6vwtUqsyTueiiZgOOoQ+yvr/9kcgMoU+zgajZlt+aP9SkotTMhtvw==",
+      "githubTokenEncrypted": "shared:v1:qRDypW8zQfPzs+AMMWmvPCH1WcZa/X8/P2xMgiPrYevEROTHctrjo24w0rim7Vz3EM7crLlcrHJA4EpkkWDybv7GpFUlxxzU6Jj+apzvfqtWq/31XIpK443stxHzppcioDKDIQb53o348PTtXqWHGA==",
       "oldMddName": "SHELL2026"
-    }
-  },
-  "dimensions5.mercuryanalytics.com/spssmr/dimensionnet": {
-    "shellnewron": {
-      "repositoryUrl": "https://github.com/praneetpant/TemplateNewRon.git",
-      "branch": "main",
-      "githubToken": "",
-      "githubTokenEncrypted": "shared:v1:9k8OLmaxXOm+/tux3v8FnMWeogaym5h+yBbNzvzrwMuDGo6XyBEtOb85C2iSonlfPRJN2aAXNLqTWr0goXBicCLE4ZKBmv55mJr5uTfBxjZ88zitAxNi4zmM4Doe9RuN6fRE7afb+tx//tgCvh7qXg==",
-      "oldMddName": "ShellNewRon"
     }
   }
 }
