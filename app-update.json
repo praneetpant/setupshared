@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2.0",
+  "version": "1.2.3.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.2/setup-v1.2.2.exe",
-  "sha256": "c71cf54f04b10e7f1a0613360caa1a459ce5e6b6d65b859192fa3d98d0fb8407",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.3/setup-v1.2.3.exe",
+  "sha256": "e005d71b91e2b25b5216c945e0e50c4b17124e6205ecde1ecd95a007a3bd925f",
   "required": false,
-  "notes": "Full installer update. Prevents the Options window from freezing while saving and syncing shared URL settings."
+  "notes": "Full installer update. Skips GitHub sync when Options, template, superuser, or token values have not actually changed."
 }
