@@ -1,8 +1,8 @@
 {
-  "version": "1.2.3.0",
+  "version": "1.2.4.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.3/setup-v1.2.3.exe",
-  "sha256": "e005d71b91e2b25b5216c945e0e50c4b17124e6205ecde1ecd95a007a3bd925f",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.4/setup-v1.2.4.exe",
+  "sha256": "ef3811652784f66264bec10cad05b01256e0871a65a4732321371824f71baf66",
   "required": false,
-  "notes": "Full installer update. Skips GitHub sync when Options, template, superuser, or token values have not actually changed."
+  "notes": "Full installer update. Fixes new templates being saved under a full Dimensions URL key and not appearing on the Project tab."
 }
