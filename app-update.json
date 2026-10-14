@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4.0",
+  "version": "1.2.5.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.4/setup-v1.2.4.exe",
-  "sha256": "ef3811652784f66264bec10cad05b01256e0871a65a4732321371824f71baf66",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.5/setup-v1.2.5.exe",
+  "sha256": "72d30c2b76fa76a8f8a495a378a5f38549446f10b0d69e5eceb50571191f9740",
   "required": false,
-  "notes": "Full installer update. Fixes new templates being saved under a full Dimensions URL key and not appearing on the Project tab."
+  "notes": "Full installer update. Allows renaming templates in the Super User template manager."
 }
