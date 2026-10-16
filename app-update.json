@@ -1,8 +1,8 @@
 {
-  "version": "1.2.10.0",
+  "version": "1.2.11.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.10/setup-v1.2.10.exe",
-  "sha256": "808e7a8302ed458e11f4439dd92da381baa91a82554282a796e07121d69038ed",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.11/setup-v1.2.11.exe",
+  "sha256": "e293a66842e6ec5ea64b9a692c6d19eeba6bef5ae97044312db6ff453b5c2596",
   "required": false,
-  "notes": "Full installer update. Allows initial Super User uploads to empty GitHub template repositories and shows that state clearly."
+  "notes": "Full installer update. Allows superusers to replace an incorrectly uploaded repository structure after confirmation."
 }
