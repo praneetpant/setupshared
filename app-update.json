@@ -1,8 +1,8 @@
 {
-  "version": "1.2.8.0",
+  "version": "1.2.9.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.8/setup-v1.2.8.exe",
-  "sha256": "c633910fb9f857a99085c9fdbe934a66c3b0d11871c4d6e7f19f8f157e9649da",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.9/setup-v1.2.9.exe",
+  "sha256": "ff19315ad6c9d4dfa59101a341eecb38cd35de27c594499dbce0d0d3c4244af7",
   "required": false,
-  "notes": "Full installer update. Uses the repository branch list when the configured/default branch is unavailable, and reports empty template repositories clearly."
+  "notes": "Full installer update. Starts verified installer updates directly and adds automatic Authenticode signing support for future signed builds."
 }
