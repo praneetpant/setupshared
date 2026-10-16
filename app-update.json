@@ -1,8 +1,8 @@
 {
-  "version": "1.2.5.0",
+  "version": "1.2.6.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.5/setup-v1.2.5.exe",
-  "sha256": "72d30c2b76fa76a8f8a495a378a5f38549446f10b0d69e5eceb50571191f9740",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.6/setup-v1.2.6.exe",
+  "sha256": "bb39f46befbcf6e5fee7ab8364ea53c0ccbe88a7c5611ae324b8a3d7d1b8c99b",
   "required": false,
-  "notes": "Full installer update. Allows renaming templates in the Super User template manager."
+  "notes": "Full installer update. Improves GitHub template token diagnostics, preserves local tokens during shared sync, and verifies copied project structure."
 }
