@@ -1,8 +1,8 @@
 {
-  "version": "1.2.11.0",
+  "version": "1.2.12.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.11/setup-v1.2.11.exe",
-  "sha256": "e293a66842e6ec5ea64b9a692c6d19eeba6bef5ae97044312db6ff453b5c2596",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.12/setup-v1.2.12.exe",
+  "sha256": "e544355bb72dcc8f456c6dcbae405045ec35e729305bd49820fe92e7b0ca644c",
   "required": false,
-  "notes": "Full installer update. Allows superusers to replace an incorrectly uploaded repository structure after confirmation."
+  "notes": "Full installer update. Checks both raw GitHub and GitHub API update manifests and uses the newest available version."
 }
