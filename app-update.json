@@ -1,8 +1,8 @@
 {
-  "version": "1.2.12.0",
+  "version": "1.2.13.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.12/setup-v1.2.12.exe",
-  "sha256": "e544355bb72dcc8f456c6dcbae405045ec35e729305bd49820fe92e7b0ca644c",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.13/setup-v1.2.13.exe",
+  "sha256": "cb27895cef2c887014605ac4dd2807cb2c0e3d29ca68dc8d95399a7674dff73d",
   "required": false,
-  "notes": "Full installer update. Checks both raw GitHub and GitHub API update manifests and uses the newest available version."
+  "notes": "Full installer update. Shared configuration writes prefer the saved setupshared token and prompt for a replacement token on GitHub 403."
 }
