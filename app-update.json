@@ -1,8 +1,8 @@
 {
-  "version": "1.2.6.0",
+  "version": "1.2.7.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.6/setup-v1.2.6.exe",
-  "sha256": "bb39f46befbcf6e5fee7ab8364ea53c0ccbe88a7c5611ae324b8a3d7d1b8c99b",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.7/setup-v1.2.7.exe",
+  "sha256": "d114292cfc330b065750a6d627a9d1496b8ff02be300a92b3a070e21ea00276d",
   "required": false,
-  "notes": "Full installer update. Improves GitHub template token diagnostics, preserves local tokens during shared sync, and verifies copied project structure."
+  "notes": "Full installer update. Automatically falls back to the repository default, main, or master branch when a template branch is not found."
 }
