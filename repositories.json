@@ -4,22 +4,15 @@
       "repositoryUrl": "https://github.com/praneetpant/SHELL5.git",
       "branch": "main",
       "githubToken": "",
-      "githubTokenEncrypted": "shared:v1:Sg8QdA/Bj3y3P649OpbTt6g+UFhwYvR7NDCChrxV6vzP1yDC5gk7nulDhA0lfG1klJuD8VnqfmQy/DrR2/VsWdrC/bnkpRX8WycYpLjobSrplrcLsasRvXm+kiDQVhoixRyo7SzeZk8izNfoZ5A8qA==",
+      "githubTokenEncrypted": "shared:v1:omgqZtfo9rIU61blaHfun9JpBfzEH+OtmKYn0UtBgU38Mhe28IqccdshaeWPztY7ks+4zSAfDqrGe8KMdNqSek0mjm2nIg8CLY19ROeCucm2Sg3mgsE87k6nxQixv0ugpAntX1oYirwUqNHkMKWn5w==",
       "oldMddName": "SHELL5"
     },
     "modern": {
       "repositoryUrl": "https://github.com/praneetpant/Templates2026.git",
       "branch": "main",
       "githubToken": "",
-      "githubTokenEncrypted": "shared:v1:mmjwrwwoQuVS3Vn/j9uerAJh0CaNcd/dlw6gN4jGqMjHXdPhJtuxq5UOgDxIVL4J4hU4uqZWlnxU7/G/U+Jw/IKvxeoSVOxUhsMbg+/+4Nw+Or+legnY/0+mrmmAqFlcSM3xpgMFuM3U0vaVOpnd4w==",
+      "githubTokenEncrypted": "shared:v1:ByBdzsoHRqQ5+T738dXeWbLvBHkBhgx08onh/pxeZRjuyvKaLQFe+CMq2tYmsqjXwIwHvzvfMWPQ+YiuvMIFjHM2ZHOCqqNiUH5BzOs9oZTuq7V6RQKz16OiRotLTCueunKTa56YwbM73JoBJsf5HQ==",
       "oldMddName": "SHELL2026"
-    },
-    "shell_new_ron": {
-      "repositoryUrl": "https://github.com/praneetpant/TemplateNewRon.git",
-      "branch": "main",
-      "githubToken": "",
-      "githubTokenEncrypted": "shared:v1:T2Hx3oyKFxj2NlaILv8SelTDpIEp8QpfirceGi1U//y1q1EweiHqgdMc0Kk0Hj9l0h9wZHTy9tyr+jTaR/7YDKUCLG1yeE7+ZjtRAB2sCdacFkxrxwZP6dbSM4l4DL0kvnN66pjLcMKRkPo+Xq3d7Q==",
-      "oldMddName": "ShellNewRon"
     }
   }
 }
