@@ -1,8 +1,8 @@
 {
-  "version": "1.2.18.0",
+  "version": "1.2.19.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.18/setup-v1.2.18.exe",
-  "sha256": "f8897e66a9ce5850fa463baa3f524f9c3e9db7a74928e901d971bfbde4e294fa",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.19/setup-v1.2.19.exe",
+  "sha256": "7e53eba57e2c0c4b57991283a4b38b02cd8db8d8c7bd3fe108c94bcde9a885ae",
   "required": false,
-  "notes": "Fixes shared upload lock authentication fallback when an old saved GitHub token is rejected."
+  "notes": "Improves upload completion status and clears the full resync option after successful uploads."
 }
