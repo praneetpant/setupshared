@@ -1,8 +1,8 @@
 {
-  "version": "1.2.15.0",
+  "version": "1.2.16.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.15/setup-v1.2.15.exe",
-  "sha256": "6b6768ec8e0a9d142d839e731cd2e34e0964392fabdf2b04532d0829d7eeb6f0",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.16/setup-v1.2.16.exe",
+  "sha256": "a7521696694d66ea352721265d7b33d3adf1cf64e3ba26d8aeaade77fa604d99",
   "required": false,
-  "notes": "Adds GitHub App authentication for shared configuration and template repository access without bundling a shared PAT."
+  "notes": "Fixes upload freeze while requesting a GitHub App installation token."
 }
