@@ -1,8 +1,8 @@
 {
-  "version": "1.2.17.0",
+  "version": "1.2.18.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.17/setup-v1.2.17.exe",
-  "sha256": "fecaa1551931a62612adc6338126904b4a88dbbeafa3e020ac2973bfb0e0d704",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.18/setup-v1.2.18.exe",
+  "sha256": "f8897e66a9ce5850fa463baa3f524f9c3e9db7a74928e901d971bfbde4e294fa",
   "required": false,
-  "notes": "Adds a shared upload lock so downloads are blocked while template uploads are in progress."
+  "notes": "Fixes shared upload lock authentication fallback when an old saved GitHub token is rejected."
 }
