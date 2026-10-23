@@ -1,8 +1,8 @@
 {
-  "version": "1.2.14.0",
+  "version": "1.2.15.0",
   "packageType": "installer",
-  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.14/setup-v1.2.14.exe",
-  "sha256": "75916c56411fe8cc72040b39044a2c74ed098c9d6989be5233082df00cdf2116",
+  "installerUrl": "https://github.com/praneetpant/setupshared/releases/download/v1.2.15/setup-v1.2.15.exe",
+  "sha256": "6b6768ec8e0a9d142d839e731cd2e34e0964392fabdf2b04532d0829d7eeb6f0",
   "required": false,
-  "notes": "Adds a Super User upload option to completely resync the GitHub directory structure from the selected local folder."
+  "notes": "Adds GitHub App authentication for shared configuration and template repository access without bundling a shared PAT."
 }
